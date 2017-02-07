@@ -1,2 +1,2 @@
 # WebServices
-Web Services Examples
+SOAP And REST Web Services Examples
